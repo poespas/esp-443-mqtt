@@ -1,5 +1,5 @@
 # esp-443-mqtt
-All the script does is broadcasting all 443Mhz signals into a MQTT server
+All the script does is broadcasting all 443Mhz signals into a MQTT server using an ESP8266.
 
 ![443Mhz signals](https://i.poespas.me/valuable-flavin.png)
 
